@@ -5,6 +5,8 @@ import ZoomMtgEmbedded from '@zoomus/websdk/embedded';
 
 function App() {
 
+
+  
   const client = ZoomMtgEmbedded.createClient();
 
   // setup your signature endpoint here: https://github.com/zoom/meetingsdk-sample-signature-node.js
